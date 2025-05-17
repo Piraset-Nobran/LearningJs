@@ -1,0 +1,28 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "iPhone 15",
+            "price": 35000,
+            "category": "Phone"
+        },
+        {
+            "id": 2,
+            "name": "MacBook Air",
+            "price": 45000,
+            "category": "Laptop"
+        },
+        {
+            "id": 3,
+            "name": "MacBook Air Plus",
+            "price": 47000,
+            "category": "Laptop"
+        },
+        {
+            "id": 4,
+            "name": "Sumsung Galaxy S29+++",
+            "price": 69000,
+            "category": "Phone"
+        }
+    ]
+}
